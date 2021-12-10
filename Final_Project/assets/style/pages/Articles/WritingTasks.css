@@ -1,0 +1,179 @@
+@import "../../base.css";
+@import "../../header&footer.css";
+
+/* Header */
+header {
+    background-color: #eee;
+}
+
+.title p {
+    color: #333;
+}
+
+header a {
+    color: #333;
+}
+
+/* Fonts */
+main{
+    text-align: left;
+}
+
+main h1{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    font-size: 40px;
+    color: #000;
+}
+
+main h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    margin-top: 50px;
+    color: #333;
+}
+
+main h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    margin-top: 40px;
+    font-weight: 300;
+    color: #333;
+}
+main h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 300;
+    color: #444;
+}
+
+main p{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    color: #666;
+}
+
+main strong{
+    color: #555;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+main .red {
+    color: red;
+}
+main .link {
+    color: #2257BF;
+}
+
+main .imgSub {
+    color: #666;
+    font-size: 10px;
+    margin-top: 0px;
+}
+
+/* Lists */
+ul, ol{
+    list-style-position: inside;
+    margin-left: 10px;
+}
+ul li{
+    margin-top: 10px;
+    color: #777;
+}
+
+ol li{
+    color: #777;
+    margin-top: 40px;
+}
+
+.smallerOl li{
+    margin-left: 40px;
+    margin-top: 10px;
+    color: #555;
+    list-style: lower-alpha;
+}
+
+.smallerUl li{
+    margin-left: 40px;
+    margin-top: 10px;
+    color: #555;
+}
+
+/* P inside Lists */
+.pInL{
+    margin-left: 40px;
+}
+.pInL li {
+    list-style: none;
+    color: #000;
+    font-size: 17px;
+}
+
+/* Images */
+img{
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 20px 48px 0 rgba(59, 69, 152, .15);
+}
+
+/* Author & Date info */
+.author {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    text-align: right;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+
+.author p {
+    margin-top: 5px;
+}
+
+/* WT5 Table */
+.WT5-Table {
+    margin-top: 0px;
+    text-align: center;
+    background-color: #fff;
+    font-size: 15px;
+    width: 100%;
+}
+
+.WT5-Table th {
+    font-family: 'Ubuntu', sans-serif;
+    border: 1px solid #555;
+    padding: 15px;
+}
+
+.WT5-Table td {
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid #555;
+    padding: 15px;
+}
+
+.WT5-Table .s {
+    background-color: #b6d7a8;
+}
+.WT5-Table .m {
+    background-color: #fff2cc;
+}
+.WT5-Table .l {
+    background-color: #f4cccc;
+}
+
+/* iframe */
+
+.video_wrapper {
+    margin-top: 30px;
+    position: relative;
+    padding-bottom: 56.25%;
+}
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
