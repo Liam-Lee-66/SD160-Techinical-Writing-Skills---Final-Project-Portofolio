@@ -4,8 +4,8 @@
 Name: Liam Lee
 
 ## Blog Description: 
-This blog is meant to be a journal of my work. Since I am still a student, and I am still learning, this should act as a sneak peak for the audience. This should let the audience know who I am, what I do or did, and what I wish to do for my career. The audience should also be able to notice the improvements I made on the websites.   
-
+This blog is meant to be a journal of my work. Since I am still a student, and I am still learning, this should act as a sneak peak for the audience. This should let the audience know who I am, what can I do or have I done, what I capable in the future. The audience should be able to notice the improvements during my journey of making webpages.   
+<!-- 
 ## Audience / Persona:
 1. Reader's name: 
 	- John Smith
@@ -18,7 +18,7 @@ This blog is meant to be a journal of my work. Since I am still a student, and I
 6. What do they enojoy for fun?: 
 	- Playing video games, programming, web developing
 7. Why did they read my blog?
-	- To know more about myself. Or for them to decide if I can be a useful asset to them.
+	- To know more about myself. Or for them to decide if I can be a useful asset to them. -->
 
 ## Website Instructions:
 Here's the link to the website: https://liam-lee-66.github.io/SD160-Techinical-Writing-Skills---Final-Project-Portofolio/
