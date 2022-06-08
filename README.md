@@ -4,7 +4,7 @@
 Name: Liam Lee
 
 ## Blog Description: 
-This blog is meant to be a journal of my work. Since I am still a student, and I am still learning, this should act as a sneak peak for the audience. This should let the audience know who I am, what can I do or have I done, what I capable in the future. The audience should be able to notice the improvements during my journey of making webpages.   
+This blog is meant to be a journal of my work. Since I am still a student, and I am still learning, this should act as a sneak peak for the audience. This should let the audience know who I am, what I have done and what I am capable of in the future. The audience should be able to notice the improvements during my journey of making webpages.   
 <!-- 
 ## Audience / Persona:
 1. Reader's name: 
